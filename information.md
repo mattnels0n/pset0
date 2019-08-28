@@ -6,7 +6,7 @@ Fill in your personal information and commit the changes with a meaningful commi
 
 * USC email address: nels171@usc.edu
 
-* PhD program: POIR
+* PhD program: POIR American Politics
 
 * Research interests (5 keywords): redistricting institutions, trump social media
 
